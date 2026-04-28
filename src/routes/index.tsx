@@ -25,28 +25,22 @@ function Index() {
     <main className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-background px-6 text-foreground">
       <section className="mx-auto flex max-w-2xl flex-col items-center text-center">
         <p className="text-xs font-medium uppercase tracking-[0.4em] text-brand-teal">
-          <span className="text-brand-red">Phygital</span>
-          <span className="text-brand-charcoal"> · </span>
-          <span className="text-brand-blue">Web3</span>
+          Phygital · Web3
         </p>
 
-        <h1 className="mt-8 text-6xl font-light leading-[0.95] tracking-tight md:text-8xl lg:text-9xl">
-          <span className="text-brand-red">Coming</span>
+        <h1 className="mt-8 text-6xl font-light leading-[0.95] tracking-tight text-brand-red md:text-8xl lg:text-9xl">
+          Coming
           <br />
-          <span className="text-brand-blue">Soon</span>
+          Soon
         </h1>
 
-        <p className="mt-10 max-w-md text-base leading-relaxed text-brand-charcoal md:text-lg">
-          A web3 marketplace for{" "}
-          <span className="font-medium text-brand-teal">phygital NFTs</span> —
-          each token represents{" "}
-          <span className="font-medium text-brand-blue">verifiable ownership</span>{" "}
-          of a real,{" "}
-          <span className="font-medium text-brand-red">physical work of art</span>.
+        <p className="mt-10 max-w-md text-base leading-relaxed text-brand-blue md:text-lg">
+          A web3 marketplace for phygital NFTs — each token represents
+          verifiable ownership of a real, physical work of art.
         </p>
 
         <div className="mt-14 flex flex-col items-center gap-2">
-          <p className="text-xs uppercase tracking-[0.3em] text-brand-teal">
+          <p className="text-xs uppercase tracking-[0.3em] text-brand-charcoal">
             Inquiries
           </p>
           <a
