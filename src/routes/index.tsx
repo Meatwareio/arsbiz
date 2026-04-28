@@ -24,7 +24,7 @@ function Index() {
   return (
     <main className="relative flex min-h-screen flex-col items-center justify-center overflow-hidden bg-background px-6 text-foreground">
       <section className="mx-auto flex max-w-2xl flex-col items-center text-center">
-        <p className="text-xs font-medium uppercase tracking-[0.4em] text-brand-teal">
+        <p className="text-xs font-medium uppercase tracking-[0.4em] text-brand-charcoal">
           Phygital · Web3
         </p>
 
@@ -34,13 +34,13 @@ function Index() {
           Soon
         </h1>
 
-        <p className="mt-10 max-w-md text-base leading-relaxed text-brand-blue md:text-lg">
+        <p className="mt-10 max-w-md text-base leading-relaxed text-brand-teal md:text-lg">
           A web3 marketplace for phygital NFTs — each token represents
           verifiable ownership of a real, physical work of art.
         </p>
 
         <div className="mt-14 flex flex-col items-center gap-2">
-          <p className="text-xs uppercase tracking-[0.3em] text-brand-charcoal">
+          <p className="text-xs uppercase tracking-[0.3em] text-brand-blue">
             Inquiries
           </p>
           <a
