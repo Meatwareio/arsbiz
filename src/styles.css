@@ -77,7 +77,7 @@
   --primary: oklch(0.62 0.21 28);
   --primary-foreground: oklch(0.97 0.015 110);
   --primary-glow: oklch(0.74 0.13 180);
-  --accent-red: oklch(0.52 0.19 28);
+  --accent-red: oklch(0.62 0.21 28);
   --accent-blue: oklch(0.62 0.13 240);
   --accent-teal: oklch(0.56 0.07 180);
   --accent-charcoal: oklch(0.31 0.008 240);
