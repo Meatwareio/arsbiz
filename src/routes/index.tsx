@@ -54,7 +54,7 @@ function Index() {
       </section>
 
       <footer className="absolute bottom-6 text-xs tracking-widest text-muted-foreground">
-        © 2026 ARS
+        © 2026 objet d’autonomie
       </footer>
     </main>
   );
