@@ -29,14 +29,18 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Phygital Art" },
+      { name: "description", content: "Art Ownership Verified is a web3 marketplace for phygital NFTs representing ownership of physical art." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Phygital Art" },
+      { property: "og:description", content: "Art Ownership Verified is a web3 marketplace for phygital NFTs representing ownership of physical art." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Phygital Art" },
+      { name: "twitter:description", content: "Art Ownership Verified is a web3 marketplace for phygital NFTs representing ownership of physical art." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/e6yMM156EtUBnM5ozI3bNuEDC8o2/social-images/social-1777484648126-IMG_3361.webp" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/e6yMM156EtUBnM5ozI3bNuEDC8o2/social-images/social-1777484648126-IMG_3361.webp" },
     ],
     links: [
       {
