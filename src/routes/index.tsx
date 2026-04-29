@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 
+// Sync trigger: force fresh commit to GitHub
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
